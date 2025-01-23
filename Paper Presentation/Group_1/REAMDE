@@ -1,8 +1,4 @@
 Paper: Link Prediction Based on Graph Neural Networks is written by Muhan Zhang and Yixin Chen
 
-The SEAL testing code is in the link below.
-https://github.com/pyg-team/pytorch_geometric/tree/master/examples
-
-
 cd /../../pytorch_geometric/examples
 python seal_link_pred.py
