@@ -1,5 +1,8 @@
 Paper: Link Prediction Based on Graph Neural Networks is written by Muhan Zhang and Yixin Chen
 
+This python file is an example in python_geometric.
+Here is the original link:
+https://github.com/pyg-team/pytorch_geometric/tree/master/examples
 
 Install numpy, scipy, sklearn, torch, torch_geometric first.
 Then do the following command in terminal.
