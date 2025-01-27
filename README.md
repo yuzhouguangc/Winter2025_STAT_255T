@@ -15,3 +15,10 @@ For the course project and paper presentation, each group will submit their slid
 **Presentation Schedule**
 | Time Slots | Team ID |
 | ------ | ------ |
+Jan. 23, 2025 | 1
+Jan. 29, 2025 | 2
+Feb. 5, 2025 | 3
+Feb. 12, 2025 | 4
+Feb. 19, 2025 | 5
+Feb. 26, 2025 | 6
+Mar. 5, 2025 | 7
